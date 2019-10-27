@@ -4,13 +4,12 @@
   "description": "Official bot for www.censirapp.com",
   "main": "index.js",
   "scripts": {
-      "start": "node ."
+    "start": "node ."
   },
   "author": "looskie",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "enmap": "^5.2.1",
     "node-fetch": "^2.6.0"
   }
 }
