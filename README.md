@@ -9,6 +9,9 @@ Commands:
 - >weather {city/zipcode},{COUNTRY}
 - >website
 - >version
+- >uptime
+
+
 More to come soon
 
 email: hello@looskie.com
